@@ -1,0 +1,38 @@
+# === Keil MDK-ARM Build Artifacts ===
+*.o
+*.obj
+*.crf
+*.d
+*.dep
+*.axf
+*.hex
+*.lst
+*.lnp
+*.map
+*.sct
+*.htm
+*.plg
+*.rpt
+*.bak
+*.tmp
+*.tra
+*.iex
+*.__i
+*.ddk
+*.edk
+*.mpf
+*.mpj
+*.omf
+
+# Keil user-specific files
+*.uvguix.*
+
+# JLink logs
+JLinkLog.txt
+
+# === VS Code ===
+.vscode/
+
+# === OS ===
+Thumbs.db
+Desktop.ini
